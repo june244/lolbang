@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lolbang/static/css/main.073c9b0a.css",
-    "main.js": "/lolbang/static/js/main.69b8bc0e.js",
+    "main.js": "/lolbang/static/js/main.7c0de301.js",
     "static/js/787.a36a9d79.chunk.js": "/lolbang/static/js/787.a36a9d79.chunk.js",
     "index.html": "/lolbang/index.html",
     "main.073c9b0a.css.map": "/lolbang/static/css/main.073c9b0a.css.map",
-    "main.69b8bc0e.js.map": "/lolbang/static/js/main.69b8bc0e.js.map",
+    "main.7c0de301.js.map": "/lolbang/static/js/main.7c0de301.js.map",
     "787.a36a9d79.chunk.js.map": "/lolbang/static/js/787.a36a9d79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.69b8bc0e.js"
+    "static/js/main.7c0de301.js"
   ]
 }
